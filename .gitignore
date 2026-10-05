@@ -1,0 +1,23 @@
+# Local tools, captures and release binaries never belong in the private source repo.
+**/bin/
+**/obj/
+.vs/
+.dotnet-home/
+.nuget-packages/
+.appdata/
+artifacts/
+dist/
+*.user
+*.suo
+*.log
+*.dmp
+*-validation.txt
+/*.png
+/*.png.*
+*.pfx
+*.snk
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

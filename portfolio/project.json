@@ -1,0 +1,15 @@
+{
+  "title": "Windows Music Visualizer",
+  "version": "1.0.0",
+  "releaseDate": "2026-10-05",
+  "visibility": "private",
+  "license": "Proprietary - all rights reserved",
+  "description": "A real-time stereo music visualizer with 35 Direct3D scenes, beat-aware motion, shuffled presets and blended transitions.",
+  "stack": ["C#", ".NET 10", "Windows Forms", "Direct3D 11", "HLSL", "WASAPI"],
+  "video": "visualizer-showcase.mp4",
+  "gif": "visualizer-showcase.gif",
+  "previewGif": "visualizer-preview.gif",
+  "poster": "visualizer-poster.jpg",
+  "alt": "A shuffled sequence of colorful audio-reactive 3D and abstract visualizations.",
+  "audioDisclosure": "Silent recording driven by a generated stereo analysis signal."
+}
